@@ -8,6 +8,7 @@ from .. import models,schemas
 
 router=APIRouter(
     prefix='/list',
+    tags=['list']
 
 )
 
