@@ -2,3 +2,4 @@ list/
 __pycache___
 .vscode
 .env
+venv/
